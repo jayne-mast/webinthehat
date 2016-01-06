@@ -1,0 +1,10 @@
+{
+  "name": "web-in-the-hat",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {
+    "gulp-autoprefixer": "latest",
+    "gulp-sass": "latest",
+    "gulp": "latest"
+  }
+}
